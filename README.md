@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vishalpatil
-- 👀 I’m interested in film making editing and design.
-- 🌱 I’m currently learning front-end development
+- 👀 I’m interested in film making,editing and design.
+- 🌱 I’m currently into front-end development
 - 💞️ I’m looking to collaborate on Design projects
 - 📫 https://linktr.ee/vishalmpatil
 
